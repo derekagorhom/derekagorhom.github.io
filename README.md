@@ -1,6 +1,4 @@
-# Responsive Website Delivery 🚚
-
-### Responsive Website Delivery
+ Website Delivery
 
 - Website Delivery, using HTML, Sass and JavaScript.
 - Includes a dark and light mode.
